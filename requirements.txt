@@ -1,3 +1,6 @@
+# Virtual Environment
+virtualenv==16.1.0
+
 # Core scientific packages
 
 jupyter==1.0.0
