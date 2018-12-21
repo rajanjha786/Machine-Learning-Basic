@@ -15,7 +15,7 @@ scikit-learn==0.19.1
 
 # Deep learning packages
 
-tensorflow==1.8.0
+tensorflow
 
 
 # May be useful with Pandas for complex "where" clauses (e.g., Pandas
